@@ -3,8 +3,12 @@
   "latestVersionCode": 660,
   "url": "https://play.google.com/store/apps/details?id=com.creativetrends.simple.app.pro",
   "releaseNotes": [
-    "- First evolution",
-    "- Second evolution",
-    "- Bug fixes"
+    "Please update Simple Pro for bug fixes and improvements that include the following:",
+    "New: Added the ability to choose a font that Facebook is displayed in. Settings>Facebook>Font Style.",
+    "New: The FAB has been reduced to just post button to make it faster.",
+    "New: While on a photo page a new FAB button will appear to view images full size.",
+    "New: Simple error logs are now attached when sending a bug report.",
+    "New: Simple will no longer download a copy of a photo before sharing it.";
+    "Bug fixes and improvements."
   ]
 }
