@@ -1,2 +1,2 @@
-# simpleappupdates
-JSON files to check updates for Simple for Facebook/Social
+# Creative Trends Updates
+JSON files to check updates for Creative Trends Updates.
