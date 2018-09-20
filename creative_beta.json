@@ -3,6 +3,8 @@
   "latestVersionCode": 5,
   "url": "https://play.google.com/store/apps/details?id=com.creativetrends.simple.app.lite",
   "releaseNotes": [
-    "Small design tweaks."
+    "Small design tweaks.",
+    "Fixed an issue with the in app font not being applied."
+    "Added an option to check for updates."
   ]
 }
