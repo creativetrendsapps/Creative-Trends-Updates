@@ -1,12 +1,9 @@
 {
-  "latestVersion": "1.0.6",
-  "latestVersionCode": 6,
-  "url": "https://github.com/creativetrendsapps/Creative-Trends-Updates/blob/master/beta/app-release.apk?raw=true",
+  "latestVersion": "1.0.7",
+  "latestVersionCode": 7,
+  "url": "https://drive.google.com/uc?export=download&id=1UFpOdGLDeh_O3ORSpE9NdXQhq5TiW7pW",
   "releaseNotes": [
     "Small design tweaks.",
-    "Fixed an issue with the in app font not being applied.",
-    "Added a setting to check for updates to Creative Trends Beta.",
-    "Added an option to disabled notifications for new betas",
-    "Added an option to install downloaded updates after they're downloaded."
+    "Fixed a crash when downloading an update."
   ]
 }
