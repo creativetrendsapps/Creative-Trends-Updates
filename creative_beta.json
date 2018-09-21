@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.7",
-  "latestVersionCode": 7,
+  "latestVersion": "1.0.8",
+  "latestVersionCode": 8,
   "url": "https://github.com/creativetrendsapps/Creative-Trends-Updates/blob/master/beta/app-release.apk?raw=true",
   "releaseNotes": [
-    "Small design tweaks.",
-    "Fixed a crash when downloading an update."
+    "Fixed pressing the update button, not actually downloading anything.",
+    "Fixed a crash when downloading a beta update on Lollipop."
   ]
 }
