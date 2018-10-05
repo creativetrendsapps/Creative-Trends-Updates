@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.0.8",
-  "latestVersionCode": 8,
+  "latestVersion": "1.0.10",
+  "latestVersionCode": 10,
   "url": "https://github.com/creativetrendsapps/Creative-Trends-Updates/blob/master/beta/app-release.apk?raw=true",
   "releaseNotes": [
-    "Fixed pressing the update button, not actually downloading anything.",
-    "Fixed a crash when downloading a beta update on Lollipop."
+    "Migrated to AndroidX.",
+    "Small design tweaks."
   ]
 }
