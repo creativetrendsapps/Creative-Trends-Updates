@@ -1,9 +1,10 @@
 {
-  "latestVersion": "1.0.10",
-  "latestVersionCode": 10,
+  "latestVersion": "1.2.0",
+  "latestVersionCode":"120",
   "url": "https://github.com/creativetrendsapps/Creative-Trends-Updates/blob/master/beta/app-release.apk?raw=true",
   "releaseNotes": [
     "Migrated to AndroidX.",
-    "Small design tweaks."
+    "Small design tweaks.",
+    "Shorter app name."
   ]
 }
