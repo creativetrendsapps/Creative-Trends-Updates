@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.2.5",
-  "latestVersionCode":"125",
+  "latestVersion": "3.0.2",
+  "latestVersionCode":"302",
   "url": "https://drive.google.com/uc?export=download&amp;id=1XgrGparSFc5PwU_GFmAXGHCbEHStOqZ0",
   "releaseNotes": [
-    "Removes older apks.",
+    "Adds Simple Pro",
     "Small design tweaks"
   ]
 }
