@@ -1,9 +1,10 @@
 {
-  "latestVersion": "3.0.4",
-  "latestVersionCode":"304",
+  "latestVersion": "3.0.5",
+  "latestVersionCode":"305",
   "url": "https://drive.google.com/uc?export=download&amp;id=1XgrGparSFc5PwU_GFmAXGHCbEHStOqZ0",
   "releaseNotes": [
-    "Fixed a bug... that caused bugs... that made bugs more buggy!!!",
-    "Also... small design tweaks"
+    "New updated design like Google Play",
+    "Added placeholders for some apps the will be ready for download soon",
+    "New expand WHATS NEW by tapping the change log"
   ]
 }
